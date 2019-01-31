@@ -277,6 +277,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
 }
 .owl-theme .owl-dots .owl-dot {
   display: inline-block;
+  margin-top: 4rem;
   zoom: 1;
   *display: inline;
 }
